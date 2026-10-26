@@ -150,6 +150,9 @@ This automated validator checks that:
 - No unedited template placeholders (`<...>`) remain.
 - No raw private key text is committed.
 
+## Submission Guidelines
+Commit all Markdown answer files (*.md) along with your fixed Python code to the repository using your own branch (feat/<name_nim>), not the `main` branch. Ensure your commits are clean, concise, and clear. Open a pull request to the `main` branch for grading. The instructor will not grade uncommitted files or files outside your assigned package folder.
+
 ## Answer File Template
 
 Use this structure for each station report:

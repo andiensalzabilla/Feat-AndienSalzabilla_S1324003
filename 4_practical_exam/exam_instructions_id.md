@@ -160,6 +160,9 @@ Validator otomatis ini memeriksa bahwa:
 
 ---
 
+## Petunjuk Pengumpulan Tugas
+Commit seluruh berkas jawaban Markdown(*.md) beserta kode perbaikan Python Anda ke repositori dengan menggunakan branch masing-masing (feat/<nama_nim>) bukan ke branch `main`. Pastikan commit Anda bersih, ringkas, dan jelas. Buat pull request ke branch `main` untuk penilaian. Penguji tidak akan menilai berkas yang belum di-commit atau berkas yang berada di luar folder paket penugasan Anda.
+
 ## Template Berkas Jawaban
 
 Gunakan struktur berikut untuk setiap laporan stasiun Anda (**pertahankan nama judul bagian bahasa Inggris agar validator otomatis dapat membaca berkas Anda**):
